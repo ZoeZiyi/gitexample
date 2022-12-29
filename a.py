@@ -8,3 +8,4 @@ if __name__ == '__main__':
     mydog = dog(5)
     mydog.bark()
     print(mydog.weight)
+    print('github add something')
